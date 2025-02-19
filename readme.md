@@ -1,4 +1,3 @@
-Here's a **concise yet informative README** for your `scripto.py` script:
 
 ---
 
